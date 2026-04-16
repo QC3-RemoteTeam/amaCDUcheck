@@ -9,4 +9,4 @@ Cell4-1-F2:300 #LPM
 #現有的T2 溫度值> 設定值 會發alarm通知
 B1-chk:enable
 B2-chk:enable
-Cell4-1-chk:enable
+Cell4-1-chk:disable
