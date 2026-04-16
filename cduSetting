@@ -3,7 +3,7 @@ B1-F2:45 #LPM
 B2-T2:25 #Celsius
 B2-F2:30 #LPM
 Cell4-1-T2:35 #Celsius
-Cell4-1-F2:400 #LPM edit by jim
+Cell4-1-F2:400 #LPM
 
 #現有的F2 LPM值< 設定值 會發alarm通知
 #現有的T2 溫度值> 設定值 會發alarm通知
