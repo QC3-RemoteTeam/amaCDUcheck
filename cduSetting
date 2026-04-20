@@ -2,11 +2,11 @@ B1-T2:25 #Celsius
 B1-F2:45 #LPM
 B2-T2:25 #Celsius
 B2-F2:30 #LPM
-Cell4-1-T2:35 #Celsius
-Cell4-1-F2:300 #LPM
+Cell4_1-T2:35 #Celsius
+Cell4_1-F2:300 #LPM
 
 #現有的F2 LPM值< 設定值 會發alarm通知
 #現有的T2 溫度值> 設定值 會發alarm通知
 B1-chk:enable
 B2-chk:enable
-Cell4-1-chk:disable
+Cell4_1-chk:disable
