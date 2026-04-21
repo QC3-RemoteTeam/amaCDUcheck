@@ -9,7 +9,7 @@ Cell4_2-F2:300 #LPM
 Cell4_3-T2:35 #Celsius
 Cell4_3-F2:300 #LPM
 Cell4_4-T2:35 #Celsius
-Cell4_5-F2:300 #LPM
+Cell4_4-F2:300 #LPM
 
 #現有的F2 LPM值< 設定值 會發alarm通知
 #現有的T2 溫度值> 設定值 會發alarm通知
