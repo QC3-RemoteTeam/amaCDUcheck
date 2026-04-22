@@ -10,6 +10,14 @@ Cell4_3-T2:35 #Celsius
 Cell4_3-F2:300 #LPM
 Cell4_4-T2:35 #Celsius
 Cell4_4-F2:300 #LPM
+Cell9_1-T2:35 #Celsius
+Cell9_1-F2:300 #LPM
+Cell9_2-T2:35 #Celsius
+Cell9_2-F2:300 #LPM
+Cell9_3-T2:35 #Celsius
+Cell9_3-F2:300 #LPM
+Cell9_4-T2:35 #Celsius
+Cell9_4-F2:300 #LPM
 
 #現有的F2 LPM值< 設定值 會發alarm通知
 #現有的T2 溫度值> 設定值 會發alarm通知
@@ -19,3 +27,7 @@ Cell4_1-chk:disable
 Cell4_2-chk:disable
 Cell4_3-chk:disable
 Cell4_4-chk:disable
+Cell9_1-chk:disable
+Cell9_2-chk:disable
+Cell9_3-chk:disable
+Cell9_4-chk:disable
