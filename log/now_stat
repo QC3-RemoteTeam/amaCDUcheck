@@ -1,0 +1,15 @@
+Wed Apr 29 12:00:41 CST 2026
+===B1 LS80 192.168.2.77 13 35 250 450 25 45 c===
+Current value:22.2C, Expect value:low than 25C
+Current value:47.2 LPM, Expect value:high than 45 LPM
+===B2 LS80 192.168.2.78 13 35 250 300 25 30 c===
+Current value:27C, Expect value:low than 25C
+Current value:0 LPM, Expect value:high than 30 LPM
+Current value:32.39C, Expect value:low than 35C
+Current value:120.963 LPM, Expect value:high than 100 LPM
+Current value:32.45C, Expect value:low than 35C
+Current value:121.437 LPM, Expect value:high than 100 LPM
+Current value:31.55C, Expect value:low than 35C
+Current value:114.443 LPM, Expect value:high than 100 LPM
+Current value:31.72C, Expect value:low than 35C
+Current value:122.448 LPM, Expect value:high than 100 LPM
