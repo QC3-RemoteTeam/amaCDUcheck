@@ -1,19 +1,4 @@
-Wed Apr 29 13:56:17 CST 2026
+Wed Apr 29 16:19:37 CST 2026
 ===B1 LS80 192.168.2.77 13 35 250 450 25 45 c===
-Current value:22.1C, Expect value:low than 25C
-Current value:47.4 LPM, Expect value:high than 45 LPM
-===B2 LS80 192.168.2.78 13 35 250 300 25 30 c===
-Current value:26.8C, Expect value:low than 25C
-Current value:0 LPM, Expect value:high than 30 LPM
-===C42R48 rack 192.168.2.149 EV22_T1 EV22_FL 350 1000 35 100 c===
-Current value:32.2C, Expect value:low than 35C
-Current value:119.968 LPM, Expect value:high than 100 LPM
-===C42R49 rack 192.168.2.149 EV23_T1 EV23_FL 350 1000 35 100 c===
-Current value:32.13C, Expect value:low than 35C
-Current value:121.12 LPM, Expect value:high than 100 LPM
-===C42R50 rack 192.168.2.149 EV24_T1 EV24_FL 350 1000 35 100 c===
-Current value:30.94C, Expect value:low than 35C
-Current value:113.666 LPM, Expect value:high than 100 LPM
-===C42R51 rack 192.168.2.149 EV25_T1 EV25_FL 350 1000 35 100 c===
-Current value:29.7C, Expect value:low than 35C
-Current value:122.811 LPM, Expect value:high than 100 LPM
+Current value:21.6C, Expect value:low than 25C
+Current value:47.3 LPM, Expect value:high than 45 LPM
