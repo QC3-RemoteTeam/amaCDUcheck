@@ -2,6 +2,35 @@ B1-T2:25 #Celsius
 B1-F2:45 #LPM
 B2-T2:25 #Celsius
 B2-F2:30 #LPM
+
+C42R48-T2:35
+C42R48-F2:100
+C42R49-T2:35
+C42R49-F2:100
+C42R50-T2:35
+C42R50-F2:100
+C42R51-T2:35
+C42R51-F2:100
+
+#現有的F2 LPM值< 設定值 會發alarm通知
+#現有的T2 溫度值> 設定值 會發alarm通知
+B1-chk:enable
+B2-chk:disable
+Cell4_1-chk:disable
+Cell4_2-chk:disable
+Cell4_3-chk:disable
+Cell4_4-chk:disable
+Cell7_1-chk:disable
+Cell7_2-chk:disable
+Cell9_1-chk:disable
+Cell9_2-chk:disable
+Cell9_3-chk:disable
+Cell9_4-chk:disable
+C42R48-chk:disable
+C42R49-chk:disable
+C42R50-chk:disable
+C42R51-chk:disable
+
 Cell4_1-T2:35 #Celsius
 Cell4_1-F2:300 #LPM
 Cell4_2-T2:35 #Celsius
@@ -22,24 +51,3 @@ Cell9_3-T2:35 #Celsius
 Cell9_3-F2:300 #LPM
 Cell9_4-T2:35 #Celsius
 Cell9_4-F2:300 #LPM
-C41R03-T2:35
-C41R03-F2:100
-C41R05-T2:35
-C41R05-F2:100
-
-#現有的F2 LPM值< 設定值 會發alarm通知
-#現有的T2 溫度值> 設定值 會發alarm通知
-B1-chk:enable
-B2-chk:disable
-Cell4_1-chk:disable
-Cell4_2-chk:disable
-Cell4_3-chk:disable
-Cell4_4-chk:disable
-Cell7_1-chk:disable
-Cell7_2-chk:disable
-Cell9_1-chk:disable
-Cell9_2-chk:disable
-Cell9_3-chk:disable
-Cell9_4-chk:disable
-C41R03-chk:disable
-C41R05-chk:disable
