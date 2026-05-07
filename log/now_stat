@@ -1,4 +1,4 @@
-Thu May  7 14:44:17 CST 2026
+Thu May  7 17:51:30 CST 2026
 ===B1 LS80 192.168.2.77 13 35 250 450 25 45 c===
-Current value:22C, Expect value:low than 25C
-Current value:47.2 LPM, Expect value:high than 45 LPM
+Current value:21.3C, Expect value:low than 25C
+Current value:47.3 LPM, Expect value:high than 45 LPM
