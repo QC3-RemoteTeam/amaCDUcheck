@@ -55,8 +55,8 @@ C42R48-chk:disable
 C42R49-chk:disable
 C42R50-chk:disable
 C42R51-chk:disable
-C41R01-chk:enable
-C41R02-chk:disable
+C41R01-chk:disable
+C41R02-chk:enable
 
 B1-chk:enable
 B2-chk:disable
