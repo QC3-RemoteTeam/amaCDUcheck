@@ -40,7 +40,7 @@ C41R01-T2o:38
 C41R01-F2:110
 C41R01-P2:40
 
-C41R02-T2i:30
+C41R02-T2i:33
 C41R02-T2o:38
 C41R02-F2:110
 C41R02-P2:40
@@ -56,7 +56,7 @@ C42R49-chk:disable
 C42R50-chk:disable
 C42R51-chk:disable
 C41R01-chk:disable
-C41R02-chk:enable
+C41R02-chk:disable
 
 B1-chk:enable
 B2-chk:disable
