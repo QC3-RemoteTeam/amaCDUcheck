@@ -66,6 +66,8 @@ C42R48-chk:disable
 C42R49-chk:disable
 C42R50-chk:disable
 C42R51-chk:disable
+C41R01-chk:disable
+C41R02-chk:disable
 
 Cell4_1-T2:35 #Celsius
 Cell4_1-F2:300 #LPM
