@@ -1,7 +1,17 @@
+#Benchtop
 B1-T2:25 #Celsius
-B1-F2:45 #LPM
+B1-T4:45 #Celsius
+B1-F2:46 #LPM
+B1-P2:5 #bar
+#現有的F2 LPM值< 設定值 會發alarm通知
+#現有的T2 LS80 給水溫度值 > 設定值 會發alarm通知
+#現有的T4 LS80 回水溫度值 > 設定值 會發alarm通知
+#現有的P2 LS80 給水壓力值 > 設定值 會發alarm通知
+
 B2-T2:25 #Celsius
-B2-F2:30 #LPM
+B2-T4:45 #Celsius
+B2-F2:46 #LPM
+B2-P2:5 #bar
 
 C42R48-T2:33
 C42R48-F2:112
