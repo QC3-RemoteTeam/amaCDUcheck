@@ -3,27 +3,42 @@ B1-T2:25 #Celsius
 B1-T4:45 #Celsius
 B1-F2:46 #LPM
 B1-P2:5 #bar
-#現有的F2 LPM值< 設定值 會發alarm通知
-#現有的T2 LS80 給水溫度值 > 設定值 會發alarm通知
-#現有的T4 LS80 回水溫度值 > 設定值 會發alarm通知
-#現有的P2 LS80 給水壓力值 > 設定值 會發alarm通知
 
 B2-T2:25 #Celsius
 B2-T4:45 #Celsius
 B2-F2:46 #LPM
 B2-P2:5 #bar
 
-C42R48-T2:33
-C42R48-F2:112
-C42R49-T2:33
-C42R49-F2:112
-C42R50-T2:33
-C42R50-F2:112
-C42R51-T2:33
-C42R51-F2:112
-
 #現有的F2 LPM值< 設定值 會發alarm通知
-#現有的T2 溫度值> 設定值 會發alarm通知
+#現有的T2 LS80 給水溫度值 > 設定值 會發alarm通知
+#現有的T4 LS80 回水溫度值 > 設定值 會發alarm通知
+#現有的P2 LS80 給水壓力值 > 設定值 會發alarm通知
+
+#rack
+C42R48-T2i:33
+C42R48-T2o:33
+C42R48-F2:112
+C42R48-P2i:112
+
+C42R49-T2i:33
+C42R49-T2o:33
+C42R49-F2:112
+C42R49-P2:112
+
+C42R50-T2i:33
+C42R50-T2o:33
+C42R50-F2:112
+C42R50-P2:112
+
+C42R51-T2i:33
+C42R51-T2o:33
+C42R51-F2:112
+C42R51-P2:112
+
+#現有的F2 LPM值 < 設定值 會發alarm通知
+#現有的T2i 溫度值 > 設定值 會發alarm通知
+#現有的P2 入水壓力值 < 設定值 會發alarm通知
+#現有的T2o 溫度值 > 設定值 會發alarm通知
 B1-chk:enable
 B2-chk:disable
 Cell4_1-chk:disable
