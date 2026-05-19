@@ -92,3 +92,5 @@ Cell9_3-T2:35 #Celsius
 Cell9_3-F2:300 #LPM
 Cell9_4-T2:35 #Celsius
 Cell9_4-F2:300 #LPM
+
+C42R52-T2i:32.2  C42R52-T2o:34.5  C42R52-F2:119.0  C42R52-P2:48.0  C42R52-chk:disable
