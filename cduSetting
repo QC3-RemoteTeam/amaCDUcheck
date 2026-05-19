@@ -59,7 +59,7 @@ C41R01-chk:disable
 C41R02-chk:disable
 
 B1-chk:enable
-B2-chk:enable
+B2-chk:disable
 Cell4_1-chk:disable
 Cell4_2-chk:disable
 Cell4_3-chk:disable
