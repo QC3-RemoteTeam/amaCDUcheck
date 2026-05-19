@@ -51,10 +51,10 @@ C41R02-P2:40
 #現有的T2o 溫度值 > 設定值 會發alarm通知
 
 #enable/disable alarm
-C42R48-chk:disable
-C42R49-chk:disable
-C42R50-chk:disable
-C42R51-chk:disable
+C42R48-chk:enable
+C42R49-chk:enable
+C42R50-chk:enable
+C42R51-chk:enable
 C41R01-chk:disable
 C41R02-chk:disable
 
