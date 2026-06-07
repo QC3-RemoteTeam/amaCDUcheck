@@ -1,10 +1,10 @@
-Sun Jun 07 18:59:09  2026
+Sun Jun 07 23:16:00  2026
 ===A1 LS80 192.168.2.71 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:22.0C, Expect value:low than 35.0C
+Current value:21.8C, Expect value:low than 35.0C
 Current value:24.8 LPM, Expect value:high than 80.0 LPM
 ===A2 LS80 192.168.2.72 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:22.6C, Expect value:low than 35.0C
-Current value:37.3 LPM, Expect value:high than 80.0 LPM
+Current value:22.3C, Expect value:low than 35.0C
+Current value:37.2 LPM, Expect value:high than 80.0 LPM
 ===A3 LS80 192.168.2.73 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
 Current value:0.0C, Expect value:low than 35.0C
 Current value:0.0 LPM, Expect value:high than 80.0 LPM
@@ -15,31 +15,31 @@ Current value:0.0 LPM, Expect value:high than 80.0 LPM
 Current value:0.0C, Expect value:low than 35.0C
 Current value:5.8 LPM, Expect value:high than 80.0 LPM
 ===A6 LS80 192.168.2.76 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:21.6C, Expect value:low than 35.0C
+Current value:21.3C, Expect value:low than 35.0C
 Current value:19.9 LPM, Expect value:high than 80.0 LPM
 ===B1 LS80 192.168.2.77 13 17 未定義 35 = 250 450 50 460 = 25.0 45.0 5.0 46.0 c===
-Current value:21.7C, Expect value:low than 25.0C
+Current value:0.0C, Expect value:low than 25.0C
 Current value:39.0 LPM, Expect value:high than 46.0 LPM
 ===B2 LS80 192.168.2.78 13 17 未定義 35 = 250 450 50 460 = 25.0 45.0 5.0 46.0 c===
-Current value:21.5C, Expect value:low than 25.0C
-Current value:31.3 LPM, Expect value:high than 46.0 LPM
+Current value:21.3C, Expect value:low than 25.0C
+Current value:31.2 LPM, Expect value:high than 46.0 LPM
 ===C1 LS80 192.168.2.79 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:21.8C, Expect value:low than 35.0C
+Current value:21.5C, Expect value:low than 35.0C
 Current value:7.7 LPM, Expect value:high than 80.0 LPM
 ===C2 LS80 192.168.2.80 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
 Current value:0.0C, Expect value:low than 35.0C
 Current value:0.0 LPM, Expect value:high than 80.0 LPM
 ===C3 LS80 192.168.2.81 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:21.5C, Expect value:low than 35.0C
+Current value:21.4C, Expect value:low than 35.0C
 Current value:20.1 LPM, Expect value:high than 80.0 LPM
 ===C4 LS80 192.168.2.82 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:20.7C, Expect value:low than 35.0C
-Current value:10.0 LPM, Expect value:high than 80.0 LPM
+Current value:20.5C, Expect value:low than 35.0C
+Current value:10.1 LPM, Expect value:high than 80.0 LPM
 ===D1 LS80 192.168.2.83 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
 Current value:0.0C, Expect value:low than 35.0C
 Current value:0.0 LPM, Expect value:high than 80.0 LPM
 ===D2 LS80 192.168.2.84 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:20.6C, Expect value:low than 35.0C
+Current value:20.4C, Expect value:low than 35.0C
 Current value:4.0 LPM, Expect value:high than 80.0 LPM
 ===C41R01 rack 192.168.2.140 EV01_T1 EV01_T2 EV01_FL EV01_P1 = 33.0 38.0 110.0 40.0 c===
 ===C41R02 rack 192.168.2.140 EV02_T1 EV02_T2 EV02_FL EV02_P1 = 33.0 38.0 110.0 40.0 c===
@@ -68,132 +68,132 @@ Current value:4.0 LPM, Expect value:high than 80.0 LPM
 ===C41R25 rack 192.168.2.140 EV25_T1 EV25_T2 EV25_FL EV25_P1 = 32.0 35.0 115.0 45.0 c===
 ===C41R26 rack 192.168.2.140 EV26_T1 EV26_T2 EV26_FL EV26_P1 = 32.0 35.0 115.0 45.0 c===
 ===C42R27 rack 192.168.2.149 EV01_T1 EV01_T2 EV01_FL EV01_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:31.88C, 	Expect value:low than 32.0C
-T2 outlet current value:31.82C, 	Expect value:low than 34.0C
+T2 inlet current value:31.63C, 	Expect value:low than 32.0C
+T2 outlet current value:31.53C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.74 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:53.98 PSI, 	Expect value:high than 48.0 PSI
 ===C42R28 rack 192.168.2.149 EV02_T1 EV02_T2 EV02_FL EV02_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:32.07C, 	Expect value:low than 32.0C
-T2 outlet current value:32.32C, 	Expect value:low than 34.0C
+T2 inlet current value:31.77C, 	Expect value:low than 32.0C
+T2 outlet current value:32.02C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.82 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.05 PSI, 	Expect value:high than 48.0 PSI
 ===C42R29 rack 192.168.2.149 EV03_T1 EV03_T2 EV03_FL EV03_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:32.04C, 	Expect value:low than 32.0C
-T2 outlet current value:31.69C, 	Expect value:low than 34.0C
+T2 inlet current value:31.8C, 	Expect value:low than 32.0C
+T2 outlet current value:31.48C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.88 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.10 PSI, 	Expect value:high than 48.0 PSI
 ===C42R30 rack 192.168.2.149 EV04_T1 EV04_T2 EV04_FL EV04_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:32.19C, 	Expect value:low than 32.0C
-T2 outlet current value:31.84C, 	Expect value:low than 34.0C
+T2 inlet current value:31.97C, 	Expect value:low than 32.0C
+T2 outlet current value:31.6C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.79 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.01 PSI, 	Expect value:high than 48.0 PSI
 ===C42R31 rack 192.168.2.149 EV05_T1 EV05_T2 EV05_FL EV05_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:31.33C, 	Expect value:low than 32.0C
-T2 outlet current value:31.29C, 	Expect value:low than 34.0C
+T2 inlet current value:31.15C, 	Expect value:low than 32.0C
+T2 outlet current value:31.03C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.85 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.03 PSI, 	Expect value:high than 48.0 PSI
 ===C42R32 rack 192.168.2.149 EV06_T1 EV06_T2 EV06_FL EV06_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:30.95C, 	Expect value:low than 32.0C
-T2 outlet current value:31.51C, 	Expect value:low than 34.0C
+T2 inlet current value:30.71C, 	Expect value:low than 32.0C
+T2 outlet current value:31.26C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.87 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.07 PSI, 	Expect value:high than 48.0 PSI
 ===C42R33 rack 192.168.2.149 EV07_T1 EV07_T2 EV07_FL EV07_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:32.44C, 	Expect value:low than 32.0C
-T2 outlet current value:34.26C, 	Expect value:low than 34.0C
+T2 inlet current value:32.17C, 	Expect value:low than 32.0C
+T2 outlet current value:34.01C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.85 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.06 PSI, 	Expect value:high than 48.0 PSI
 ===C42R34 rack 192.168.2.149 EV08_T1 EV08_T2 EV08_FL EV08_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:33.8C, 	Expect value:low than 32.0C
-T2 outlet current value:34.89C, 	Expect value:low than 34.0C
+T2 inlet current value:33.68C, 	Expect value:low than 32.0C
+T2 outlet current value:34.7C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.73 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:53.99 PSI, 	Expect value:high than 48.0 PSI
 ===C42R35 rack 192.168.2.149 EV09_T1 EV09_T2 EV09_FL EV09_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:34.6C, 	Expect value:low than 32.0C
-T2 outlet current value:36.9C, 	Expect value:low than 34.0C
+T2 inlet current value:34.44C, 	Expect value:low than 32.0C
+T2 outlet current value:36.75C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.45 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:53.84 PSI, 	Expect value:high than 48.0 PSI
 ===C42R36 rack 192.168.2.149 EV10_T1 EV10_T2 EV10_FL EV10_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:34.06C, 	Expect value:low than 32.0C
-T2 outlet current value:36.05C, 	Expect value:low than 34.0C
+T2 inlet current value:33.94C, 	Expect value:low than 32.0C
+T2 outlet current value:35.87C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.74 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.01 PSI, 	Expect value:high than 48.0 PSI
 ===C42R37 rack 192.168.2.149 EV11_T1 EV11_T2 EV11_FL EV11_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:36.48C, 	Expect value:low than 32.0C
-T2 outlet current value:39.34C, 	Expect value:low than 34.0C
+T2 inlet current value:36.29C, 	Expect value:low than 32.0C
+T2 outlet current value:39.14C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.76 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.01 PSI, 	Expect value:high than 48.0 PSI
 ===C42R38 rack 192.168.2.149 EV12_T1 EV12_T2 EV12_FL EV12_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:38.07C, 	Expect value:low than 32.0C
-T2 outlet current value:39.44C, 	Expect value:low than 34.0C
+T2 inlet current value:37.7C, 	Expect value:low than 32.0C
+T2 outlet current value:39.19C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.57 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:53.71 PSI, 	Expect value:high than 48.0 PSI
 ===C42R39 rack 192.168.2.149 EV13_T1 EV13_T2 EV13_FL EV13_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:37.21C, 	Expect value:low than 32.0C
-T2 outlet current value:38.84C, 	Expect value:low than 34.0C
+T2 inlet current value:37.07C, 	Expect value:low than 32.0C
+T2 outlet current value:38.68C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.90 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.21 PSI, 	Expect value:high than 48.0 PSI
 ===C42R40 rack 192.168.2.149 EV14_T1 EV14_T2 EV14_FL EV14_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:37.03C, 	Expect value:low than 32.0C
-T2 outlet current value:38.89C, 	Expect value:low than 34.0C
+T2 inlet current value:36.84C, 	Expect value:low than 32.0C
+T2 outlet current value:38.97C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.53 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:53.33 PSI, 	Expect value:high than 48.0 PSI
 ===C42R41 rack 192.168.2.149 EV15_T1 EV15_T2 EV15_FL EV15_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:36.81C, 	Expect value:low than 32.0C
-T2 outlet current value:38.42C, 	Expect value:low than 34.0C
+T2 inlet current value:36.69C, 	Expect value:low than 32.0C
+T2 outlet current value:38.28C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.46 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:53.94 PSI, 	Expect value:high than 48.0 PSI
 ===C42R42 rack 192.168.2.149 EV16_T1 EV16_T2 EV16_FL EV16_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:36.43C, 	Expect value:low than 32.0C
-T2 outlet current value:37.95C, 	Expect value:low than 34.0C
+T2 inlet current value:36.15C, 	Expect value:low than 32.0C
+T2 outlet current value:37.75C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.72 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.13 PSI, 	Expect value:high than 48.0 PSI
 ===C42R43 rack 192.168.2.149 EV17_T1 EV17_T2 EV17_FL EV17_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:36.56C, 	Expect value:low than 32.0C
-T2 outlet current value:39.2C, 	Expect value:low than 34.0C
+T2 inlet current value:36.44C, 	Expect value:low than 32.0C
+T2 outlet current value:38.77C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.82 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.01 PSI, 	Expect value:high than 48.0 PSI
 ===C42R44 rack 192.168.2.149 EV18_T1 EV18_T2 EV18_FL EV18_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:32.02C, 	Expect value:low than 32.0C
-T2 outlet current value:33.81C, 	Expect value:low than 34.0C
-Flow current value:129.96 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:52.77 PSI, 	Expect value:high than 48.0 PSI
+T2 inlet current value:32.21C, 	Expect value:low than 32.0C
+T2 outlet current value:33.61C, 	Expect value:low than 34.0C
+Flow current value:130.56 LPM, 		Expect value:high than 119.0 LPM
+P2 inlet current value:51.82 PSI, 	Expect value:high than 48.0 PSI
 ===C42R45 rack 192.168.2.149 EV19_T1 EV19_T2 EV19_FL EV19_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:32.06C, 	Expect value:low than 32.0C
-T2 outlet current value:33.8C, 	Expect value:low than 34.0C
-Flow current value:129.52 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:52.54 PSI, 	Expect value:high than 48.0 PSI
+T2 inlet current value:32.1C, 	Expect value:low than 32.0C
+T2 outlet current value:33.6C, 	Expect value:low than 34.0C
+Flow current value:131.01 LPM, 		Expect value:high than 119.0 LPM
+P2 inlet current value:51.99 PSI, 	Expect value:high than 48.0 PSI
 ===C42R46 rack 192.168.2.149 EV20_T1 EV20_T2 EV20_FL EV20_P1 = 33.0 38.0 107.5 40.0 c===
-T2 inlet current value:31.85C, 	Expect value:low than 33.0C
-T2 outlet current value:32.95C, 	Expect value:low than 38.0C
-Flow current value:122.33 LPM, 		Expect value:high than 107.5 LPM
-P2 inlet current value:53.18 PSI, 	Expect value:high than 40.0 PSI
+T2 inlet current value:31.96C, 	Expect value:low than 33.0C
+T2 outlet current value:33.08C, 	Expect value:low than 38.0C
+Flow current value:121.94 LPM, 		Expect value:high than 107.5 LPM
+P2 inlet current value:52.53 PSI, 	Expect value:high than 40.0 PSI
 ===C42R47 rack 192.168.2.149 EV21_T1 EV21_T2 EV21_FL EV21_P1 = 33.0 38.0 107.5 40.0 c===
-T2 inlet current value:31.78C, 	Expect value:low than 33.0C
-T2 outlet current value:32.93C, 	Expect value:low than 38.0C
-Flow current value:115.82 LPM, 		Expect value:high than 107.5 LPM
-P2 inlet current value:52.87 PSI, 	Expect value:high than 40.0 PSI
+T2 inlet current value:31.96C, 	Expect value:low than 33.0C
+T2 outlet current value:33.09C, 	Expect value:low than 38.0C
+Flow current value:116.06 LPM, 		Expect value:high than 107.5 LPM
+P2 inlet current value:52.38 PSI, 	Expect value:high than 40.0 PSI
 ===C42R48 rack 192.168.2.149 EV22_T1 EV22_T2 EV22_FL EV22_P1 = 33.0 38.0 107.5 40.0 c===
-T2 inlet current value:34.81C, 	Expect value:low than 33.0C
-T2 outlet current value:35.83C, 	Expect value:low than 38.0C
+T2 inlet current value:34.73C, 	Expect value:low than 33.0C
+T2 outlet current value:35.67C, 	Expect value:low than 38.0C
 Flow current value:0.00 LPM, 		Expect value:high than 107.5 LPM
-P2 inlet current value:54.76 PSI, 	Expect value:high than 40.0 PSI
+P2 inlet current value:53.94 PSI, 	Expect value:high than 40.0 PSI
 ===C42R49 rack 192.168.2.149 EV23_T1 EV23_T2 EV23_FL EV23_P1 = 33.0 38.0 107.5 40.0 c===
-T2 inlet current value:34.58C, 	Expect value:low than 33.0C
-T2 outlet current value:35.71C, 	Expect value:low than 38.0C
+T2 inlet current value:34.38C, 	Expect value:low than 33.0C
+T2 outlet current value:35.49C, 	Expect value:low than 38.0C
 Flow current value:0.00 LPM, 		Expect value:high than 107.5 LPM
-P2 inlet current value:54.80 PSI, 	Expect value:high than 40.0 PSI
+P2 inlet current value:54.11 PSI, 	Expect value:high than 40.0 PSI
 ===C42R50 rack 192.168.2.149 EV24_T1 EV24_T2 EV24_FL EV24_P1 = 33.0 38.0 107.5 40.0 c===
-T2 inlet current value:31.76C, 	Expect value:low than 33.0C
-T2 outlet current value:32.59C, 	Expect value:low than 38.0C
-Flow current value:116.36 LPM, 		Expect value:high than 107.5 LPM
-P2 inlet current value:52.97 PSI, 	Expect value:high than 40.0 PSI
+T2 inlet current value:31.89C, 	Expect value:low than 33.0C
+T2 outlet current value:32.84C, 	Expect value:low than 38.0C
+Flow current value:115.34 LPM, 		Expect value:high than 107.5 LPM
+P2 inlet current value:52.26 PSI, 	Expect value:high than 40.0 PSI
 ===C42R51 rack 192.168.2.149 EV25_T1 EV25_T2 EV25_FL EV25_P1 = 33.0 38.0 107.5 40.0 c===
-T2 inlet current value:31.73C, 	Expect value:low than 33.0C
-T2 outlet current value:32.56C, 	Expect value:low than 38.0C
-Flow current value:119.18 LPM, 		Expect value:high than 107.5 LPM
-P2 inlet current value:53.09 PSI, 	Expect value:high than 40.0 PSI
+T2 inlet current value:31.85C, 	Expect value:low than 33.0C
+T2 outlet current value:32.8C, 	Expect value:low than 38.0C
+Flow current value:119.92 LPM, 		Expect value:high than 107.5 LPM
+P2 inlet current value:52.55 PSI, 	Expect value:high than 40.0 PSI
 ===C42R52 rack 192.168.2.149 EV26_T1 EV26_T2 EV26_FL EV26_P1 = 32.0 34.0 119.0 48.0 c===
-T2 inlet current value:34.59C, 	Expect value:low than 32.0C
-T2 outlet current value:35.61C, 	Expect value:low than 34.0C
+T2 inlet current value:34.44C, 	Expect value:low than 32.0C
+T2 outlet current value:35.45C, 	Expect value:low than 34.0C
 Flow current value:0.00 LPM, 		Expect value:high than 119.0 LPM
-P2 inlet current value:54.94 PSI, 	Expect value:high than 48.0 PSI
+P2 inlet current value:54.23 PSI, 	Expect value:high than 48.0 PSI
