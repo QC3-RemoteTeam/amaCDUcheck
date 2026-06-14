@@ -1,7 +1,7 @@
-Fri Jun 12 15:36:58  2026
+Sun Jun 14 19:51:40  2026
 ===A1 LS80 192.168.2.71 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:21.4C, Expect value:low than 35.0C
-Current value:24.8 LPM, Expect value:high than 80.0 LPM
+Current value:21.5C, Expect value:low than 35.0C
+Current value:24.9 LPM, Expect value:high than 80.0 LPM
 ===A2 LS80 192.168.2.72 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
 Current value:0.0C, Expect value:low than 35.0C
 Current value:0.0 LPM, Expect value:high than 80.0 LPM
@@ -13,13 +13,13 @@ Current value:0.0C, Expect value:low than 35.0C
 Current value:0.0 LPM, Expect value:high than 80.0 LPM
 ===A5 LS80 192.168.2.75 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
 Current value:0.0C, Expect value:low than 35.0C
-Current value:4.3 LPM, Expect value:high than 80.0 LPM
+Current value:4.2 LPM, Expect value:high than 80.0 LPM
 ===A6 LS80 192.168.2.76 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
 Current value:21.2C, Expect value:low than 35.0C
-Current value:19.9 LPM, Expect value:high than 80.0 LPM
+Current value:20.1 LPM, Expect value:high than 80.0 LPM
 ===B1 LS80 192.168.2.77 13 17 未定義 35 = 250 450 50 250 = 25.0 45.0 5.0 25.0 c===
-Current value:21.4C, Expect value:low than 25.0C
-Current value:45.0 LPM, Expect value:high than 25.0 LPM
+Current value:21.3C, Expect value:low than 25.0C
+Current value:40.8 LPM, Expect value:high than 25.0 LPM
 ===B2 LS80 192.168.2.78 13 17 未定義 35 = 250 450 50 460 = 25.0 45.0 5.0 46.0 c===
 Current value:21.1C, Expect value:low than 25.0C
 Current value:31.2 LPM, Expect value:high than 46.0 LPM
@@ -30,16 +30,16 @@ Current value:0.0 LPM, Expect value:high than 80.0 LPM
 Current value:0.0C, Expect value:low than 35.0C
 Current value:0.0 LPM, Expect value:high than 80.0 LPM
 ===C3 LS80 192.168.2.81 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:21.2C, Expect value:low than 35.0C
-Current value:19.9 LPM, Expect value:high than 80.0 LPM
+Current value:21.3C, Expect value:low than 35.0C
+Current value:20.1 LPM, Expect value:high than 80.0 LPM
 ===C4 LS80 192.168.2.82 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:20.5C, Expect value:low than 35.0C
-Current value:9.9 LPM, Expect value:high than 80.0 LPM
+Current value:20.2C, Expect value:low than 35.0C
+Current value:10.0 LPM, Expect value:high than 80.0 LPM
 ===D1 LS80 192.168.2.83 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
 Current value:0.0C, Expect value:low than 35.0C
 Current value:0.0 LPM, Expect value:high than 80.0 LPM
 ===D2 LS80 192.168.2.84 13 17 未定義 35 = 350 400 300 800 = 35.0 40.0 30.0 80.0 c===
-Current value:49.3C, Expect value:low than 35.0C
+Current value:58.7C, Expect value:low than 35.0C
 Current value:0.0 LPM, Expect value:high than 80.0 LPM
 ===C41R01 rack 192.168.2.140 EV01_T1 EV01_T2 EV01_FL EV01_P1 = 33.0 38.0 110.0 40.0 c===
 ===C41R02 rack 192.168.2.140 EV02_T1 EV02_T2 EV02_FL EV02_P1 = 33.0 38.0 110.0 40.0 c===
